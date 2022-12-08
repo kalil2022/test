@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WalletTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T09:42:57" hostname="DESKTOP-CEUSH4V" time="0.015">
+  <properties/>
+  <testcase name="test_wallet_created()" classname="WalletTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
